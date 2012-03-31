@@ -1,0 +1,12 @@
+set guioptions-=T
+set guioptions-=m
+set guioptions-=L
+set guioptions-=r
+set guioptions-=b
+set expandtab
+set softtabstop=4
+set shiftwidth=4
+set tabstop=4
+set nocompatible
+set guifont=Segoe_UI_Mono:h9:cANSI
+:highlight Pmenu ctermbg=white ctermfg=darkblue gui=bold

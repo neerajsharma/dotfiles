@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/cygdrive/e/blue'
+let g:netrw_dirhist_2='/cygdrive/e/blue/xcp'
+let g:netrw_dirhist_3='/cygdrive/e/blue/xcp/xenon'
+let g:netrw_dirhist_4='/cygdrive/e/blue/xcp/xenon/input'
+let g:netrw_dirhist_5='e:/xdk/private/xam/xui/controlpack/src'
+let g:netrw_dirhist_6='e:/xdk/private/xam/xui/controlpack/src/xam'
+let g:netrw_dirhist_7='e:/xdk/private/xam/xui/controlpack/src'
+let g:netrw_dirhist_8='e:/xdk/private/xam/xui/controlpack/src/xam'
+let g:netrw_dirhist_9='e:/xdk/public/LKG/xbox/nonship/inc/mf'
